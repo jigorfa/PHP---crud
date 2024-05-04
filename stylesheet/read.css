@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(90deg, rgba(70,70,70,1) 0%, rgba(26,65,92,1) 100%);
+    border-radius: 15px 15px 0 0;
+}
+
+h2{
+    text-align: center;
+}
+
+.table-bg{
+    background-color: aliceblue;
+    border-radius: 15px 15px 0 0;
+}
